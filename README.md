@@ -7,6 +7,8 @@ examples
 
 https://www.electronjs.org/blog/simple-samples
 
+https://github.com/electron/simple-samples
+
 
     $ mkdir myapp
     $ cd myapp
