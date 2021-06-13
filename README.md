@@ -7,6 +7,9 @@ https://medium.com/spidernitt/getting-started-with-desktop-applications-using-el
     $ mkdir myapp
     $ cd myapp
     $ npm init -y
+    
+    -- package.json
+    
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron ."      
@@ -17,6 +20,8 @@ https://medium.com/spidernitt/getting-started-with-desktop-applications-using-el
     $ touch index.html
     $ npm start
     $ npm install electron-packager --save-dev
+    
+    -- package.json
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron .",
