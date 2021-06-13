@@ -9,6 +9,8 @@ https://www.electronjs.org/blog/simple-samples
 
 https://github.com/electron/simple-samples
 
+https://hsoh1990.github.io/2019/01/18/electron-tutorial/
+
 
     $ mkdir myapp
     $ cd myapp
