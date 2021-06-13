@@ -1,6 +1,8 @@
 # startElectron
 Build cross-platform desktop
 
+https://medium.com/spidernitt/getting-started-with-desktop-applications-using-electron-js-52b55088aacc
+
 
     $ mkdir myapp
     $ cd myapp
